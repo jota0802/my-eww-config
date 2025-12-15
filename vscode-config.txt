@@ -1,0 +1,7 @@
+{
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "workbench.iconTheme": "symbols",
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 12,
+    "editor.fontFamily": "'Jetbrains Mono', 'monospace', monospace"
+}
